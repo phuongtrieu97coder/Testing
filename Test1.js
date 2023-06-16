@@ -7,6 +7,8 @@ function test1 (){
 
 
 
-function test1 (){
-return 
+function test2 (name){
+return  test1() + " "+name;
 }
+
+console.log(test2("HP"));
