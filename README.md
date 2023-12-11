@@ -13,7 +13,7 @@
 
 # 1. Purpose:
 
-> This repository is an environment to work any programming languages that includes all folders and files that are necessary for them. 
+> This repository is an environment to work with any programming language that includes all folders and files that are necessary for them. 
 
 
 # 2. Technologies:
